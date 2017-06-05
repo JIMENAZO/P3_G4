@@ -1,0 +1,16 @@
+﻿  Team.cc
+c:\users\usuario\desktop\entios\p3_g14\team.cc(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\desktop\entios\p3_g14\team.cc(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\desktop\entios\p3_g14\team.cc(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\desktop\entios\p3_g14\team.cc(206): warning C4018: '<': signed/unsigned mismatch
+  Renderer.cc
+  Map.cc
+c:\users\usuario\desktop\entios\p3_g14\map.cc(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\desktop\entios\p3_g14\map.cc(28): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Game.cc
+c:\users\usuario\desktop\entios\p3_g14\atacks.hh(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\desktop\entios\p3_g14\atacks.hh(76): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\usuario\desktop\entios\p3_g14\team.cc(189): warning C4715: 'Team::atack': not all control paths return a value
+  P3_G14.vcxproj -> C:\Users\Usuario\Desktop\entios\Debug\P3_G14.exe
+  P3_G14.vcxproj -> C:\Users\Usuario\Desktop\entios\Debug\P3_G14.pdb (Partial PDB)
